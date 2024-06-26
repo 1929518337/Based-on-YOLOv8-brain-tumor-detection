@@ -1,0 +1,6 @@
+train: D:\yolov8-8.2.36\dataset-Br35H\TRAIN
+val: D:\yolov8-8.2.36\dataset-Br35H\VAL
+test: D:\yolov8-8.2.36\dataset-Br35H\TEST
+
+nc: 1
+names: ['Brain tumor']
